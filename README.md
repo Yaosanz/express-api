@@ -29,8 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://lldikti10.id/public/img/informasi/berita/MASTER.png" height="80" alt="kampus merdeka" style="margin-right:20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Kampus_Merdeka_Kemendikbud.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Logo_Kampus_Merdeka_Kemendikbud.png" height="80" alt="kampus merdeka" style="margin-right:20px;"/>
+  <img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
   
 </div>
 
