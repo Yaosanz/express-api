@@ -2,3 +2,5 @@ node_modules/
 npm-debug.log
 .env
 credentials.json
+package-lock.json
+package.json
